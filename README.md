@@ -23,9 +23,9 @@ Use the arrow keys left, right, up and down to cross the road and reach water. B
 Good luck Begin to play NOW!
 
 ### Websites
-1. [Collision Detection - Game Development | MDN](https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript/Collision_detection)
+[Collision Detection - Game Development | MDN](https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript/Collision_detection)
 
 ### Udacity Forum Posts(Extremly Helpful!)
-1.[Cannot see enemy and player](https://discussions.udacity.com/t/cannot-see-enemy-and-player/157269/2) posted this and reply from Karol really helped.
-2.[My player moves off the screen pass the water](https://discussions.udacity.com/t/my-player-moves-off-the-screen-pass-the-water/42425/6)
-3.[Player bug collision problem](https://discussions.udacity.com/t/player-bug-collision-problem/15068)
+1.[Cannot see enemy and player](https://discussions.udacity.com/t/cannot-see-enemy-and-player/157269/2) ****posted this and reply from Karol really helped.****<br>
+2.[My player moves off the screen pass the water](https://discussions.udacity.com/t/my-player-moves-off-the-screen-pass-the-water/42425/6)<br>
+3.[Player bug collision problem](https://discussions.udacity.com/t/player-bug-collision-problem/15068)<br>
