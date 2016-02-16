@@ -42,7 +42,17 @@ var Player=function(x,y){
 };
 
 Player.prototype.update=function(dt){
-    this.collosion();
+    if(this.y<25){
+        this.x=200;
+        this.y=405;
+        console.log("you made it!");
+        alert("Ahhh! You win the Game..want to play again click on OK!");
+        this.reset();
+    }
+    else{
+        this.collosion();
+    }
+    
 };
 
 Player.prototype.render=function(){
